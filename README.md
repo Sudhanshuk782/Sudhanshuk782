@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **State of Charge , Range Estimation**
 
-- 🌱 I’m currently learning **PCB Design, Yoga**
+- 🌱 I’m expert in designing Battery Management System (BMS) Critical Functionalities with all corner cases and optimized logic**
 
 - 👯 I’m looking to collaborate on **State of Health**
 
