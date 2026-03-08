@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **State of Health**
 
-- 🤝 I’m looking for help with **Range Estimation, PCB Design**
+- 🤝 I’m looking for help with **Range Estimation, SOH**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sudhanshuk782](https://github.com/Sudhanshuk782)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Sudhanshuk782@gmail.com**
 
-- 📄 Know about my experiences [to talk me](to talk me)
+- 📄 Briefly Introduction: I have M.Tech in Electric Vehicle Technology and have more than 3 years of experience in designing Software for BMS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
